@@ -1,0 +1,1 @@
+document.getElementById("start").onclick=()=>{document.getElementById("content").classList.remove("hide");};
